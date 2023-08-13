@@ -1,4 +1,7 @@
-### Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rony7v7&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&card_width=1000&background=0%2CEB545400%2CEB545400)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rony7v7&theme=github-dark-blue&hide_border=true&border_radius=0&card_width=1000&background=0%2CEB545400%2CEB545400)](https://git.io/streak-stats)
 
 <!--
 **Rony7v7/Rony7v7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
