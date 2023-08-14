@@ -24,4 +24,6 @@
 
 - 🌱 Passionate about: **finding happiness** and **making friends**.
 
+#
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rony7v7&theme=github-dark-blue&hide_border=true&border_radius=0&mode=weekly&card_width=1000&background=00000000)](https://git.io/streak-stats)
