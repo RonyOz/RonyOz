@@ -1,7 +1,6 @@
 
 <div id="header" align = "center">
     <h1 align="center">Hi 🤝, I'm Rony</h1>
-    
     <h3 align="center">Resourceful Software Engineering student constantly seeking innovative
         paths to conquer challenges. Eager to expand horizons and grasp new concepts. Enthusiastic 
         problem-solver, committed to turning ideas into reality.</h3>
