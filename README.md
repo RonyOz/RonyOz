@@ -20,7 +20,7 @@
 
 - 💬 Contact: **ronyfarido@gmail.com**
 
-- 🧠 Currently exploring: **Linked Lists, Binary Search, JUnit, JavaFX**...
+- 🧠 Currently exploring: **Binary Search, JUnit, JavaFX**...
 
 - 🌱 Passionate about: **finding happiness** and **making friends**.
 
