@@ -10,9 +10,6 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/Innovative-gray">
         <img alt="Static Badge" src="https://img.shields.io/badge/Detail--Oriented-white">
         <img alt="Static Badge" src="https://img.shields.io/badge/Adaptable-gray"><br>
-        <a href="www.linkedin.com/in/ronyoz">
-            <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0E76A8">
-        </a>
 </div>
 
 #
