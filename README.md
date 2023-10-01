@@ -37,8 +37,9 @@
 
 <div align = "center">
 
-<img align="left" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="400px"/>
+<img align="left" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="445px"/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12127428121&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=347d39)](https://spotify-github-profile.vercel.app/api/view?uid=12127428121&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12127428121&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=347d39&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12127428121&redirect=true)
+
 
 </div>
