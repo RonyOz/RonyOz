@@ -1,6 +1,6 @@
 
 <div id="header" align = "center">
-    <h1 align="center">Hi 🤝, I'm Rony</h1>
+    <h1 align="center"><b>Hi 🤝, I'm Rony </b>
     <h3 align="center">Resourceful Software Engineering student constantly seeking innovative
         paths to conquer challenges. Eager to expand horizons and grasp new concepts. Enthusiastic 
         problem-solver, committed to turning ideas into reality.</h3>
@@ -13,7 +13,15 @@
 </div>
 
 #
-### 👨‍💻 About Me : 
+<div id="visitors-counter" align = "center">
+    <h3 align="center"><b>👥 Visitor Counter</b>
+</div>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Rony7v7}/count.svg"/></p>
+
+#
+
+### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me : 
 
 - 💬 Contact: **ronyfarido@gmail.com**
 
@@ -22,5 +30,5 @@
 - 🌱 Passionate about: **finding happiness** and **making friends**.
 
 #
-
+### GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rony7v7&theme=github-dark-blue&hide_border=true&border_radius=0&mode=weekly&card_width=1000&background=00000000)](https://git.io/streak-stats)
