@@ -22,7 +22,7 @@
 
 - 💬 Contact: **ronyfarido@gmail.com**
 
-- 🧠 Currently exploring: **Binary Search, JUnit, JavaFX**...
+- 🧠 Currently exploring: **MultiThreading, Neuronal Networks**...
 
 - 🌱 Passionate about: **finding happiness** and **making friends**.
 
