@@ -22,7 +22,7 @@
 
 - 💬 Contact: **ronyfarido@gmail.com**
 
-- 🧠 Currently exploring: **MultiThreading, Neuronal Networks**...
+- 🧠 Currently exploring: **Scala, Web developing, DevOps**...
 
 - 🌱 Passionate about: **finding happiness** and **making friends**.
 
