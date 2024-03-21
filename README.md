@@ -22,7 +22,7 @@
 
 - 💬 Contact: **ronyfarido@gmail.com**
 
-- 🧠 Currently exploring: **Scala, Web developing, DevOps**...
+- 🧠 Currently exploring: **Functional Programming, Pattern Designs, SQL**...
 
 - 🌱 Passionate about: **finding happiness** and **making friends**.
 
