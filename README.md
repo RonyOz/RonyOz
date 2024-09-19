@@ -22,7 +22,7 @@
 
 - 💬 Contact: **ronyfarido@gmail.com**
 
-- 🧠 Currently exploring: **Functional Programming, Pattern Designs, SQL**...
+- 🧠 Currently exploring: **Django, Hardware Architecture, TCP-UDP**...
 
 - 🌱 Passionate about: **finding happiness** and **making friends**.
 
