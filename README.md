@@ -20,7 +20,7 @@
 
 ### <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> About Me:
 
-- 💬 Contact: **ronyfarido@gmail.com**
+- 💬 Contact: **rony.oz@ieee.org**
 
 - 🧠 Currently exploring: **Django, Hardware Architecture, TCP-UDP**...
 
