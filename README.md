@@ -39,7 +39,7 @@
 <img align="left" src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" height="50px"> 
 <h3>GitHub Stats: </h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rony7v7&theme=github-dark&hide_border=true&mode=weekly&card_width=1000&background=EBEBEB00)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronyoz&theme=github-dark&hide_border=true&mode=weekly&card_width=1000&background=EBEBEB00)](https://git.io/streak-stats)
 
 <!--
 #
