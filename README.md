@@ -24,7 +24,7 @@
 
 <ul>
     <li>💬 Contact: <strong>rony.oz@ieee.org</strong></li>
-    <li>🧠 Currently exploring: <strong>Software Architecture, Spring, NoSQL</strong>...  </li>
+    <li>🧠 Currently exploring: <strong>OS, Flutter, Projects Management</strong>...  </li>
     <li>🌱 Passionate about: <strong> finding happiness</strong> and <strong>making friends</strong>.</li>
 </ul>
 
